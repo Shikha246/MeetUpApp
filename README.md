@@ -40,7 +40,6 @@ npm run dev
 
 - React.js
 - React Router DOM
-- Context API
 - Axios
 - CSS3
 - React Icons
