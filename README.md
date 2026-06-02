@@ -12,7 +12,12 @@ This platform allows users to discover upcoming events, explore event details, c
 
 
 ---
+## 🔗 Watch Vodeo
 
+[Video Link](https://drive.google.com/file/d/17itsStZCGoh7FuWTIgSXoLaB9MhiDwvc/view?usp=sharing)
+
+
+---
 ## ⚡ Quick Start
 
 Clone the repository and run the project locally.
